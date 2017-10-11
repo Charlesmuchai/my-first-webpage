@@ -1,0 +1,31 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  font-style: oblique;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 200%
+}
+
+ul {
+  line-height: 40px;
+  font-size: 150%
+}
+
+body {
+  background-color:  #b3f0ff;
+
+
+}
+
+h3 {
+  font-size: 250%
+
+}
